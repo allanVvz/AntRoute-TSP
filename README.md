@@ -1,4 +1,4 @@
-# Travelling Salesman Problem – ANTTRIP
+# Travelling Salesman Problem – AntRoute
 
 A concise ACO-based solver for the Travelling Salesman Problem.
 

@@ -106,8 +106,3 @@ result, ants_used, epochs_used, path_cost = AntColonyRunner(
 - TypeError unpacking starting city: pass coordinates as `(x, y)` or `(name, (x, y))`; the notebook includes a robust extractor for both.
 - “Truth value of an array is ambiguous”: avoid `A or B` with NumPy arrays; the plotting code selects the background without boolean chaining.
 
-## References
-
-- ACO base implementation adapted from James McGuigan (Kaggle): Ant Colony Optimization Algorithm.
-- Course material: PUC‑PR “Computação Natural – Vídeo aula 6”.
-
